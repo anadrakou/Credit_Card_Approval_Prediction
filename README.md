@@ -16,7 +16,7 @@
   
 ### Files of the Project
 - `credit_card_approval.ipynb` : A comprehensive documentation of the entire process, including detailed explanations for each step.
-- `credit_card_approval.pptx` : Presentation of this project.
+- `credit_card_approval.pdf` : Presentation of this project.
 <br>
 
 ### Libraries and Dependencies
