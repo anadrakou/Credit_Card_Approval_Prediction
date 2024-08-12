@@ -37,7 +37,7 @@
 | Name           | Registration Number                | GitHub Profile                              |
 |----------------|---------------------|---------------------------------------------|
 | Anastasia Drakou     | 2022202304006      | [anadrakou](https://github.com/anadrakou) |
-| Anna Koutougera       | 20222023040012     | [annkou](https://github.com/annkou)     |
+| Anna Koutougera       | 2022202304012     | [annkou](https://github.com/annkou)     |
 | Despoina Angeliki Moysidou       | 2022202304016     | [angelina-msd](https://github.com/angelina-msd)     |
 
 ### Contact Information
